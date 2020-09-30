@@ -1,0 +1,1 @@
+Please download COIL-100 and put raw images in this folder.
