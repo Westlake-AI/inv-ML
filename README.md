@@ -60,11 +60,11 @@ Visualization results will be saved in the folder defined in run_test.sh, defaul
 
 - Visualization of embeddings
 
-  We provide the config file and visualization results of eight datasets in  [[Data_baidu](https://pan.baidu.com/s/1VRatHzJHM3lcIgU1QZONzw)(code:5zfx)]. Take MNIST as an example: there are "+ExtraHead", "+Orth_loss", "+Padding", and "baseline" in the folder "./MNIST", which contains results and test_config.py.
+  We provide the config file and visualization results of eight datasets in **[[Data_baidu](https://pan.baidu.com/s/1VRatHzJHM3lcIgU1QZONzw)(code:5zfx)]**. Take MNIST as an example: there are "+ExtraHead", "+Orth_loss", "+Padding", and "baseline" in the folder "./MNIST", which contains results and test_config.py.
 
 - Interpolation & reconstruction results
 
-  We also provide the interpolation results of MNIST, USPS, KMNIST, FMNIST in [[Data_baidu](https://pan.baidu.com/s/1VRatHzJHM3lcIgU1QZONzw)(code:5zfx)]. You can find them under "./interpolation" and "./reconstruction".
+  We also provide the interpolation results of MNIST, USPS, KMNIST, FMNIST in **[[Data_baidu](https://pan.baidu.com/s/1VRatHzJHM3lcIgU1QZONzw)(code:5zfx)]**. You can find them under "./interpolation" and "./reconstruction".
 
 ## Acknowledgement
 
