@@ -3,13 +3,7 @@
 
 ## Introduction
 
-The code is an network-based implementation of *inv-ML*, testing with toy datasets (Swiss roll, S Curve, Sphere) and real-world datasets (MNIST, USPS, KMNIST, Fashion-MNIST, COIL-20, etc.)
-
-The code includes the following modules:
-
-* Datasets (MNIST-full, MNIST-test, USPS, Fashion-MNIST, Reuters-10k)
-* Training and testing of *i-ML-Enc*
-* Visualisation
+The code is an network-based implementation of *inv-ML*, training and testing with toy datasets (Swiss roll, S Curve, Sphere) and real-world datasets (MNIST, USPS, KMNIST, Fashion-MNIST, COIL-20, etc.).
 
 ## Requirements
 
@@ -54,7 +48,7 @@ bash run_test.sh
 cd invMLEnc_toy
 bash run_test.sh
   ```
-Visualization results will be saved in the folder defined in run_test.sh, default are from "Test" to "Test8".
+Visualization results will be saved in the folder defined in run_test.sh, default are from "Test" to "Test8". You can try different datasets with config files in "./good_params".
 
 ## Results
 
