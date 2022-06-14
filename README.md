@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The code is an network-based implementation of *inv-ML*, training and testing with toy datasets (Swiss roll, S Curve, Sphere) and real-world datasets (MNIST, USPS, KMNIST, Fashion-MNIST, COIL-20, etc.).
+The code is a deep neural network implementation of *inv-ML*, training and testing with toy datasets (Swiss roll, S Curve, Sphere) and real-world datasets (MNIST, USPS, KMNIST, Fashion-MNIST, COIL-20, etc.).
 
 ## Requirements
 
@@ -66,6 +66,15 @@ Visualization results will be saved in the folder defined in run_test.sh, defaul
 
 ## Citation
 
+If you are interested in our repository and our paper, please cite the following paper:
+```
+@inproceedings{Li2021InvertibleML,
+  title={Invertible Manifold Learning for Dimension Reduction},
+  author={Siyuan Li and Haitao Lin and Zelin Zang and Lirong Wu and Jun Xia and S. Li},
+  booktitle={ECML/PKDD},
+  year={2021}
+}
+```
 Citation of the implementation of the MLDL paper.
 
 ```
