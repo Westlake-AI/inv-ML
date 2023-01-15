@@ -1,5 +1,16 @@
+<div align="center">
+<h1>Invertible-Manifold-Learning-for-Dimension-Reduction (<a href="https://arxiv.org/abs/2010.04012">ECML 2021</a>)</h1>
 
-# Invertible-Manifold-Learning-for-Dimension-Reduction (inv-ML)
+[Siyuan Li](https://lupin1998.github.io/)<sup>1,2</sup>, [Haitao Lin](https://bird-tao.github.io/)<sup>1,2</sup>, [Zelin Zang](https://scholar.google.com/citations?user=foERjnQAAAAJ&hl=en)<sup>1,2</sup>, [Lirong Wu](https://lirongwu.github.io/)<sup>1,2</sup>, [Jun Xia](https://junxia97.github.io/)<sup>1,2</sup>, [Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN)<sup>†,1</sup>
+
+<sup>1</sup>[Westlake University](https://westlake.edu.cn/), <sup>2</sup>[Zhejiang University](https://www.zju.edu.cn/english/)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/44519745/212521582-b21d3fe8-bd1b-4dd1-8ec9-a4d58eae5256.png" width=65% 
+class="center">
+</p>
+
+</div>
 
 ## Introduction
 
@@ -49,6 +60,11 @@ cd invMLEnc_toy
 bash run_test.sh
   ```
 Visualization results will be saved in the folder defined in run_test.sh, default are from "Test" to "Test8". You can try different datasets with config files in "./good_params".
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/44519745/212521643-e7bd8eff-74c1-4422-9b63-ddc5c0f08b7d.png" width=100% 
+class="center">
+</p>
 
 ## Results
 
